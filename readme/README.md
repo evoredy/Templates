@@ -8,9 +8,9 @@ This format is in markdown denoted by the ```.md``` or ```.markdown```file exten
 If required, add a disclaimer like "This is for expiremental use. Please use with caution and understand hardware and software limitations as well as vulnerabilities." 
 
 To run and/or compile, you will need
-    * [this]
-    * [and this]
-    * [don't forget this]
+* [this]
+* [and this]
+* [don't forget this]
 
 ## Getting started
 
